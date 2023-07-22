@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+daed1f9d81294fa14c25eb2a698758e4 CMakeFiles/OpenMW-Mod-Manager_autogen
+4cbb1a63060d9d79d00eda2af70fad2b OpenMW-Mod-Manager_en_US.ts

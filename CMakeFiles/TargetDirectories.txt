@@ -1,0 +1,4 @@
+/Users/grantfar/Programming/OpenMw-Mod-Manager/CMakeFiles/OpenMW-Mod-Manager.dir
+/Users/grantfar/Programming/OpenMw-Mod-Manager/CMakeFiles/edit_cache.dir
+/Users/grantfar/Programming/OpenMw-Mod-Manager/CMakeFiles/rebuild_cache.dir
+/Users/grantfar/Programming/OpenMw-Mod-Manager/CMakeFiles/OpenMW-Mod-Manager_autogen.dir

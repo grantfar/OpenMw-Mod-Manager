@@ -20,6 +20,7 @@ set(PROJECT_SOURCES
         main.cpp
         mainwindow.cpp
         mainwindow.h
+        ini.h
         mainwindow.ui
         ${TS_FILES}
 )
